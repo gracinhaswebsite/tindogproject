@@ -1,4 +1,4 @@
-# Tin Dog
+# TinDog
 
 Project carried out in 2021 during “The Complete 2021 Web Development Bootcamp” course at Udemy to practice Bootstrap.
 
